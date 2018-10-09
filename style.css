@@ -1,0 +1,11 @@
+#btnPiramide{
+    width:100px;
+    text-align: center;
+    background-color: gray;
+    border: solid 1px #666666;
+    color: white;
+}
+
+#btnPiramide:hover{
+    cursor: pointer;
+}
